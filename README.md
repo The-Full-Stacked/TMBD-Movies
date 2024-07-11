@@ -1,6 +1,6 @@
 # TMDB Movies
 
-[Live Demo](https://<username>.github.io/TMDB-Movies/)
+[Live Demo](https://the-full-stacked.github.io/TMBD-Movies/)
 
 ## Description
 TMDB Movies is a web application that allows users to discover popular, top-rated, and upcoming movies using data from The Movie Database (TMDB) API. The application features a modern, responsive design and includes a search bar for display purposes.
